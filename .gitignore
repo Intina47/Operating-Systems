@@ -1,0 +1,19 @@
+# Ignore VSCode configuration files
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/tasks.json
+
+# Ignore compiled executables
+exec
+
+# Ignore object files (if any)
+*.o
+
+# Ignore swap files
+*~
+
+# Ignore any files with a .swp extension
+*.swp
+
+# Ignore any files with a .swo extension
+*.swo
